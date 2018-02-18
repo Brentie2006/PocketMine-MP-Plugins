@@ -1,0 +1,37 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Brentie2006/PocketMine-MP-Plugins
+branches:
+- master
+projects:
+  AntiHacks:
+    path: AntiHacks/
+  AutoInv:
+    path: AutoInv/
+  ChatLog:
+    path: ChatLog/
+  DummyKits:
+    path: DummyKits/
+  Fly:
+    path: Fly/
+  HealthStatus:
+    path: HealthStatus/
+  Homes:
+    path: Homes/
+  InventoryClear:
+    path: InventoryClear/
+  KillMoneyFix.Releases.v1.0:
+    path: KillMoneyFix/Releases/v1.0/
+  KillMoneyFix:
+    path: KillMoneyFix/
+  MoreCommands:
+    path: MoreCommands/
+  PositionTeller:
+    path: PositionTeller/
+  PvP-Stats:
+    path: PvP-Stats/
+  SimpleTest:
+    path: SimpleTest/
+  Sneak:
+    path: Sneak/
+  WorldProtector:
+    path: WorldProtector/
+...
